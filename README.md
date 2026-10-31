@@ -4,7 +4,10 @@
 
 ### Research
 
-My main professional focus is computational criminology: using formal modeling and computational methods to understand technology-facilitated exploitation, and translating research into intelligence and tools for prevention and disruption. My work (CaseLinker) is in use with Project VIC International's knowledge graphs, and I am currently developing a canonical *Exploitation State Machine* for representing and disrupting non-consensual exploitation (CSEA, elder fraud, extortion, and beyond).
+My main research focus is studying crime through the lens of computational criminology. I aim to model how exploitative processes unfold rigorously enough to intervene at the societal and technological levels. More broadly, I am interested in knowledge representation: ontologies, graph construction, and building data models that faithfully capture real-world phenomena. I am currently a Strategic Research Fellow at Project VIC International, where I am developing the *Exploitation State Machine* for representing and disrupting non-consensual exploitation (CSEA, elder fraud, extortion, and beyond).
+
+
+
 
 Explore my research on:
 - [Google Scholar](https://scholar.google.com/citations?user=UTCnqNEAAAAJ&hl=en)
