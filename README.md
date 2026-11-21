@@ -4,15 +4,15 @@
 
 ### Research
 
-My research focuses on studying crime through the lens of **computational social science**.
+My research focuses on studying crime through the lens of computational social science. I aim to model how exploitative processes unfold rigorously enough to intervene at the societal and technological levels. More broadly, I am interested in knowledge representation: ontologies, graph construction, and conceptual frameworks that faithfully capture real-world phenomena. I am currently a Strategic Research Fellow at Project VIC International, where I am developing the *Exploitation State Machine* for representing and disrupting non-consensual exploitation (CSEA, elder fraud, extortion, and beyond).
 
-I aim to model how exploitative processes unfold rigorously enough to intervene at the societal and technological levels.
 
-More broadly, I am interested in **knowledge representation**: ontologies, graph construction, and conceptual frameworks that faithfully capture real-world phenomena.
 
-I am currently a Strategic Research Fellow at Project VIC International, where I am developing the *Exploitation State Machine* for representing and disrupting non-consensual exploitation (CSEA, elder fraud, extortion, and beyond).
 
-[Google Scholar](https://scholar.google.com/citations?user=UTCnqNEAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0002-5164-2225) · [Research site](https://end-child-exploitation.com/)
+Explore my research on:
+- [Google Scholar](https://scholar.google.com/citations?user=UTCnqNEAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0002-5164-2225)
+- [Research site](https://end-child-exploitation.com/)
 
 ### Outside the lab
 
